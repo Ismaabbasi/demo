@@ -44,7 +44,6 @@ const Login = () => {
               // setEmail('');
             }}
           />
-          
           <br />
           Password:
           <br />
