@@ -37,7 +37,7 @@ const Login = () => {
           Email:
           <br />
           <input
-            className="inputFiled"
+            className="inputField"
             value={email}
             onChange={(e) => {
               setEmail(e.target.value);
